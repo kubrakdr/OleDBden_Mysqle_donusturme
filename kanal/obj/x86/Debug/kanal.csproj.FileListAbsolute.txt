@@ -1,0 +1,19 @@
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\kanal\kanal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\kanal\kanal\bin\Debug\kanal.exe
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\kanal\kanal\bin\Debug\kanal.pdb
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\kanal\kanal\bin\Debug\mysql.data.dll
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\kanal\kanal\obj\x86\Debug\kanal.exe
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\kanal\kanal\obj\x86\Debug\kanal.pdb
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\kanal\kanal\bin\Debug\kanal.exe.config
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\kanal\kanal\obj\x86\Debug\Interop.MDACVer.dll
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\kanal\kanal\obj\x86\Debug\kanal.csproj.ResolveComReference.cache
+C:\Users\kubra\OneDrive\Masaüstü\kanal\kanal\bin\Debug\kanal.exe.config
+C:\Users\kubra\OneDrive\Masaüstü\kanal\kanal\bin\Debug\kanal.exe
+C:\Users\kubra\OneDrive\Masaüstü\kanal\kanal\bin\Debug\kanal.pdb
+C:\Users\kubra\OneDrive\Masaüstü\kanal\kanal\obj\x86\Debug\kanal.csprojAssemblyReference.cache
+C:\Users\kubra\OneDrive\Masaüstü\kanal\kanal\obj\x86\Debug\Interop.MDACVer.dll
+C:\Users\kubra\OneDrive\Masaüstü\kanal\kanal\obj\x86\Debug\kanal.csproj.ResolveComReference.cache
+C:\Users\kubra\OneDrive\Masaüstü\kanal\kanal\obj\x86\Debug\kanal.csproj.CoreCompileInputs.cache
+C:\Users\kubra\OneDrive\Masaüstü\kanal\kanal\obj\x86\Debug\kanal.csproj.CopyComplete
+C:\Users\kubra\OneDrive\Masaüstü\kanal\kanal\obj\x86\Debug\kanal.exe
+C:\Users\kubra\OneDrive\Masaüstü\kanal\kanal\obj\x86\Debug\kanal.pdb
